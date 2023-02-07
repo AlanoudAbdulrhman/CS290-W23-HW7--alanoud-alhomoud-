@@ -1,2 +1,2 @@
 add fileA.txt
-feature1
+add feature1
